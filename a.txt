@@ -1,2 +1,2 @@
 This is the first line, from the original version.
-
+This second line was added in test2.
